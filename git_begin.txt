@@ -1,4 +1,4 @@
 hello git
 master
 featurel
-merge fea
+merge feature1
